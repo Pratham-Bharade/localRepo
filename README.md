@@ -1,2 +1,1 @@
-# this was as local repo
-
+# this was as local reposetory which i pus on git 
