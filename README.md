@@ -1,1 +1,1 @@
-# this was as local reposetory which i pus on git 
+# this was as local reposetory which i push on git 
